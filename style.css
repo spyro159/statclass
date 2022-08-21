@@ -24,8 +24,8 @@ max-width:  1000px ;
   color: white ;
 }
 .perd {
-padding-right: 25px ;
-padding-left: 25px ;
+padding-right: 15px ;
+padding-left: 15px ;
 }
 #str {
   text-decoration: overline;
@@ -101,7 +101,7 @@ text-align: center;
       padding: 1px 1px  10px 30px ;
   }
   }.stas img{
-    width: 340px ;
+    width: 320px ;
 
   }
   .per {
