@@ -86,3 +86,17 @@ max-width:  1000px ;
     width: 415px ;
   }
 }
+@media (max-width: 600px) {
+  .stas p {
+  display: none ;
+  }
+  .meadia {
+    display: block;
+    color: white ;
+    font-family: 'Open Sans', sans-serif;
+      padding: 1px 1px  10px 30px ;
+  }
+  }.stas img{
+    width: 350px ;
+  }
+}
