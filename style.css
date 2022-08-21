@@ -86,6 +86,9 @@ max-width:  1000px ;
   }.stas img{
     width: 415px ;
   }
+  .per {
+    font-size: 19px;
+  }
 }
 @media (max-width: 600px) {
   .stas p {
